@@ -1,7 +1,9 @@
 ### Hi there  👋, my name is Emanuel Silva.
+
 #### I am cureently studying Software Engineering at Minho University.
 
 ### Projects:
+
 #### Feel free to check my University projects [here](https://github.com/EmanuelsGiT/University/) or check my Linkedin.
 
 <a href="https://www.linkedin.com/in/emanuel-silva-a62802213//">
