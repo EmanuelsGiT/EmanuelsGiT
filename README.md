@@ -3,10 +3,10 @@
 
 ### Projects:
 #### Feel free to check my University projects [here](https://github.com/EmanuelsGiT/University/) or check my Linkedin.
-<code>
+
 <a href="https://www.linkedin.com/in/emanuel-silva-a62802213//">
   <img alt="Emanuel's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a></code>
+</a>
 
 ### My Statistics:
 
