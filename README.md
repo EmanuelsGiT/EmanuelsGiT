@@ -1,6 +1,6 @@
 ## Hi there  👋, my name is Emanuel Silva.
 
-### I am cureently studying Software Engineering at Minho University.
+### I am currently studying Software Engineering at Minho University.
 
 ## Projects:
 
