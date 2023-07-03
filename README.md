@@ -12,4 +12,4 @@
 
 ## My Statistics:
 ![EmanuelsGiT's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmanuelsGiT&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats-EmanuelsGiT.vercel.app/api/top-langs/?username=EmanuelsGiT&theme=highcontrast&hide=haskell)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelsGiT&theme=dark&hide=haskell)
