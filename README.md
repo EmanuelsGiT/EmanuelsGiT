@@ -12,5 +12,5 @@
 
 ## My Statistics:
 
-![GitHub stats](https://github-readme-stats-mtsknn.vercel.app/api?username=EmanuelsGiT&theme=highcontrast&show_icons=true)
-![Top Langs](https://github-readme-stats-mtsknn.vercel.app/api/top-langs/?username=EmanuelsGiT&theme=highcontrast&hide=haskell)
+![GitHub stats](https://github-readme-stats-EmanuelsGiT.vercel.app/api?username=EmanuelsGiT&theme=highcontrast&show_icons=true)
+![Top Langs](https://github-readme-stats-EmanuelsGiT.vercel.app/api/top-langs/?username=EmanuelsGiT&theme=highcontrast&hide=haskell)
